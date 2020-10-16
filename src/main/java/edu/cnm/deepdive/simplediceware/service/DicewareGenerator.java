@@ -6,7 +6,7 @@ import java.util.Random;
 import java.util.stream.IntStream;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import java.util.stream.Collectors;
+
 
 @Service
 public class DicewareGenerator implements PassphraseGenerator{
